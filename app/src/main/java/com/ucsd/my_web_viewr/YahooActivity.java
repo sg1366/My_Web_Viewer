@@ -1,3 +1,9 @@
+/*
+    Sina Gharavi
+    Android Programming 1
+    Assignment 1
+ */
+
 package com.ucsd.my_web_viewr;
 
 import androidx.appcompat.app.AppCompatActivity;
