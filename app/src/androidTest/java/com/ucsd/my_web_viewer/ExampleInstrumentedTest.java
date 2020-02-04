@@ -1,4 +1,4 @@
-package com.ucsd.my_web_viewr;
+package com.ucsd.my_web_viewer;
 
 import android.content.Context;
 

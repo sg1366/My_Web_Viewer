@@ -4,7 +4,7 @@
     Assignment 1
  */
 
-package com.ucsd.my_web_viewr;
+package com.ucsd.my_web_viewer;
 
 import androidx.appcompat.app.AppCompatActivity;
 
